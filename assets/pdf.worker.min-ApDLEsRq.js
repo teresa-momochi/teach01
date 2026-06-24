@@ -1,0 +1,1 @@
+var e=`/teach01/assets/pdf.worker.min-CrMmvqMo.mjs`;export{e as default};
